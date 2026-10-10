@@ -1,8 +1,8 @@
 {
   "name": "konu dergi",
   "short_name": "konu.",
-  "start_url": "https://konudergi.com/",
-  "scope": "https://konudergi.com/",
+  "start_url": "https://www.konudergi.com/",
+  "scope": "https://www.konudergi.com/",
   "display": "standalone",
   "background_color": "#f0eee6",
   "theme_color": "#f0eee6",
